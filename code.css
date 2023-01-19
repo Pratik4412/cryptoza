@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hello{
+    background-image: linear-gradient(to top,#a8ff78, #78ffd6);
+   
+}
+
+
+/* navbar */
+
+.navbar-brand{
+    color: black;
+    font-size: 1.4rem;
+    font-family: 'Bree Serif', serif;
+}
+
+.container-fluid img{
+    height: 4rem;
+    background-image: linear-gradient(to right,yellow, red);
+    border-radius: 80px;  
+     
+    
+}
+.container-fluid{
+    background-image: linear-gradient(to left, white, gray);
+    font-family: 'Bree Serif', serif;   
+}
+.nav-item{
+    color: white;
+
+}
+.navbar-toggler{
+    background-image: linear-gradient(to right, red, yellow);
+
+}
+.container-fluid #main{
+    background-image: linear-gradient(to right, #1f4037, #99f2c8);
+    color: white;
+}
+.container-fluid #open{
+    border: 2px solid black ;
+}
+.carousel-inner{
+    display: flex;
+    height: 100vh;
+    width: 100wh;
+}
+.card{
+    background-image: linear-gradient(to top, #a8c0ff,#3f2b96);
+    height: 32rem;
+    width: vh;
+    transition: all ease .5s;
+}
+.card:hover{
+    box-shadow: 10px 10px 15px black;
+    margin-top: -1rem;
+    cursor: pointer;
+}
+/* services */
+ 
+/* contener */
+.container #text{
+    font-family: 'Bree Serif', serif;
+    font-size: 3rem;
+    padding: 30px;
+ 
+}
+.container #normal{
+    font-size: 1.8rem;
+    font-family: 'Bree Serif', serif; 
+}
+
+/* abouts */
+/* .about img{
+
+    height: 200px;
+    border: 1px solid black;
+    margin: 125px;
+    border-top-right-radius: 337px;
+    transform: translate(-50%, -50%);
+    right: 25px;
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+    } */
+.mentenece{
+    padding-top: 35px;
+}
+.mentenece #name{
+    color: purple;
+}
+
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 25px;
+    
+}
+.contact input,
+.contact textarea{
+    width: 90%;
+    padding: 0.5rem;
+    height: 9vh;
+    size: 20px;
+}
+.contact form{
+    width: 45%;
+    
+}
+.contact form #sub{
+    background-image: linear-gradient(to right, red, yellow);
+    font-family: 'Bree Serif', serif;
+    color: white;
+    padding: 5px 20px;
+    margin: 12px;
+    border-radius: 15px;
+    font-size: 1rem;
+    border-radius: 2px solid black;
+    cursor: pointer;
+}
+.contact form label{
+    font-size: 1.4rem;
+    font-family: 'Bree Serif', serif;
+}
+.h-primarys{
+padding: 28px;
+}
