@@ -1,1 +1,1 @@
-![screencapture-127-0-0-1-5500-index-html-2023-09-22-22_33_39](https://github.com/Pratik4412/cryptoza/assets/121230559/592abd65-63fa-47fb-9e42-df4f0f0decc3)![screencapture-file-D-full-stack-Front-end-projects-Main-website-cryptoza-master-cryptoza-master-index-html-2023-09-22-22_38_48](https://github.com/Pratik4412/cryptoza/assets/121230559/71d499ca-09d3-4ca3-b5c2-ea2fbd8cd7a4)
+![cryptoza](https://github.com/Pratik4412/cryptoza/assets/121230559/0086861b-bdb5-4c57-af93-50a0be893615)
